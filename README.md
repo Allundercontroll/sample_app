@@ -1,3 +1,7 @@
+# Перевод Ruby on Rails Tutorial: пример приложения 
+Это пример приложения для 
+[*Ruby on Rails Tutorial*](http://railstutorial.org/)
+by [Баев Владимир](http://baev_vladimir.com/)
 == README
 
 This README would normally document whatever steps are necessary to get the
